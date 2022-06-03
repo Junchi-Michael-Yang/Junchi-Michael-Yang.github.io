@@ -32,9 +32,9 @@ body {
 }
 
 #layout-content {
-	padding-top: 2.5em;
-	padding-left: 10.0em;
-	padding-right: 10.0em;
+	padding-top: 3.5em;
+	padding-left: 23.0em;
+	padding-right: 23.0em;
     border: none;
     background: white;
     text-align: left;
@@ -120,19 +120,19 @@ h1, h2, h3 {
 	color: #527bbd;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
-	padding-bottom: 0.2em;
-	line-height: 1.0;
+	padding-bottom: 0.4em;
+	line-height: 2;
 	padding-top: 0.5em;
 	border-bottom: 1px solid #aaaaaa;
 }
 
 h1 {
-	font-size: 165%;
+	font-size: 220%;
 }
 
 h2 {
 	padding-top: 0.8em;
-	font-size: 125%;
+	font-size: 150%;
 }
 
 h2 + h3 {
@@ -140,7 +140,7 @@ h2 + h3 {
 }
 
 h3 {
-	font-size: 110%;
+	font-size: 120%;
 	border-bottom: none;
 }
 
