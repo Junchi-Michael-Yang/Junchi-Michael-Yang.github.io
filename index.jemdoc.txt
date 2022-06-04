@@ -21,7 +21,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 \n
 
-- Nest Your Adaptive Algorithm for Parameter- Agnostic Nonconvex Minimax Optimization\n
+- Nest Your Adaptive Algorithm for Parameter-agnostic Nonconvex Minimax Optimization\n
   *Junchi Yang*\*, \ Xiang Li\*, and Niao He.\n
   Preprint [https://arxiv.org/abs/2206.00743 \[arXiv\] ] 
 
@@ -30,7 +30,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
   AISTATS 2022 [https://arxiv.org/abs/2112.05604 \[arXiv\] ] [https://proceedings.mlr.press/v151/yang22b.html \[AISTATS\] ]
 
 
-- The Complexity of Nonconvex-Strongly-Concave Minimax Optimization\n
+- The Complexity of Nonconvex-strongly-concave Minimax Optimization\n
   Siqi Zhang\*, \ *Junchi Yang*\*, Cristobal Guzman, Negar Kiyavash and Niao He.\n
   UAI 2021 [https://arxiv.org/abs/2103.15888 \[arXiv\] ] [https://www.auai.org/uai2021/pdf/uai2021.205.pdf \[UAI\] ]
 
@@ -38,7 +38,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
   *Junchi Yang*, Siqi Zhang, Negar Kiyavash, and Niao He.\n
   NeurIPS 2020 [https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html \[NeurIPS \] ]
 
-- Global Convergence and Variance Reduction for a Class of Nonconvex-Nonconcave Minimax Problems\n
+- Global Convergence and Variance Reduction for a Class of Nonconvex-nonconcave Minimax Problems\n
   *Junchi Yang*, Negar Kiyavash, and Niao He.\n
   NeurIPS 2020 [https://arxiv.org/abs/2002.09621 \[arXiv\] ] [https://proceedings.neurips.cc/paper/2020/hash/0cc6928e741d75e7a92396317522069e-Abstract.html \[NeurIPS\] ]
 
