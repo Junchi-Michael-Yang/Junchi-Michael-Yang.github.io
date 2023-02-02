@@ -4,7 +4,7 @@
 = Junchi Yang 
 
 ~~~
-{}{img_left}{self.jpeg}{alt text}{130}{160}
+{}{img_left}{self.jpeg}{alt text}{130}{158}
 
 I am a PhD student in Computer Science at ETH Zurich, advised by [https://odi.inf.ethz.ch/niaohe Niao He]. I also work closely with [https://sites.google.com/site/negarkiyavash/ Negar Kiyavash]. My research interest lies in optimization and its applications in machine learning. Before that, I received master's degree in Industrial Engineering from University of Illinois Urbana-Champaign. I received bachelor's degree in Applied Mathematics and Economics from UCLA in 2017. 
 
@@ -21,9 +21,14 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 \n
 
+- TiAda: A Time-scale Adaptive Algorithm For Nonconvex Minimax Optimization\n
+  Xiang Li, *Junchi Yang*, and Niao He.\n
+  ICLR 2023 [https://arxiv.org/pdf/2210.17478.pdf \[arXiv\] ] 
+
+
 - Nest Your Adaptive Algorithm for Parameter-agnostic Nonconvex Minimax Optimization\n
   *Junchi Yang*\*, \ Xiang Li\*, and Niao He.\n
-  Preprint [https://arxiv.org/abs/2206.00743 \[arXiv\] ] 
+  NeurIPS 2022 [https://arxiv.org/abs/2206.00743 \[arXiv\] ] 
 
 - Faster Single-loop Algorithms for Minimax Optimization without Strong Concavity\n
   *Junchi Yang*, Antonio Orvieto, Aurelien Lucchi, and Niao He.\n
@@ -36,7 +41,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 - A Catalyst Framework for Minimax Optimization\n
   *Junchi Yang*, Siqi Zhang, Negar Kiyavash, and Niao He.\n
-  NeurIPS 2020 [https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html \[NeurIPS \] ]
+  NeurIPS 2020 [https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html \[NeurIPS\] ]
 
 - Global Convergence and Variance Reduction for a Class of Nonconvex-nonconcave Minimax Problems\n
   *Junchi Yang*, Negar Kiyavash, and Niao He.\n
@@ -54,7 +59,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 == Teaching
 \
-- Optimization for Data Science. ETH Zurich. 2022 Spring.
+- Optimization for Data Science. ETH Zurich. 2022 Spring, 2023 Winter.
 
 - Foundations of Reinforcement Learning. ETH Zurich. 2021 Fall.
 
@@ -62,11 +67,13 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 == Service
 
-Reviewer for NeurIPS, ICML and AISTATS.
+Reviewer for NeurIPS, ICML, ICLR, AISTATS and TMLR.
 
 == Miscellaneous
 
 - I received ISE Student Fellowship at UIUC 2017-2018. 
+
+- Top reviewer for NeurIPS 2022.
 
 - I play [https://raw.githubusercontent.com/Junchi-Michael-Yang/Junchi-Michael-Yang.github.io/main/volleyball.JPG volleyball] and used to play badminton and table tennis. I am learning [https://raw.githubusercontent.com/Junchi-Michael-Yang/Junchi-Michael-Yang.github.io/main/snowboarding.JPG snowboarding] and tennis.
 
