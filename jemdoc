@@ -94,7 +94,7 @@ class controlstruct(object):
     self.inf = self.otherfiles.pop(0)
 
 def showhelp():
-  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE]
+  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE] 
   Produces html markup from a jemdoc SOURCEFILE.
 
   Most of the time you can use jemdoc without any additional flags.
@@ -115,7 +115,7 @@ def showhelp():
   overwritten by including them in a configuration file, and running,
   for example,
 
-    jemdoc -c mywebsite.conf index.jemdoc
+    jemdoc -c mywebsite.conf index.jemdoc 
 
   You can view version and installation details with
 
@@ -254,7 +254,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a> and <a href="https://openai.com/blog/chatgpt">ChatGPT</a>.
+  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
