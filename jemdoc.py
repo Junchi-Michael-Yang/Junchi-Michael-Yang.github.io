@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a> and <a href="https://openai.com/blog/chatgpt">ChatGPT</a>.
 
   [sourcelink]
   (<a href="|">source</a>)

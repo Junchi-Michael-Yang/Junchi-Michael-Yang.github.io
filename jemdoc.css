@@ -368,3 +368,39 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+
+
+
+/* Add wider edge on both sides */
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* Make website responsive */
+@media only screen and (max-width: 768px) {
+    /* Adjust font size for smaller screens */
+    body {
+        font-size: 16px;
+    }
+
+    /* Reduce padding for smaller screens */
+    #layout-menu {
+        padding-right: 10px;
+    }
+    #layout-content {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+
+    /* Adjust layout for smaller screens */
+    #layout-menu {
+        display: block;
+        width: 100%;
+    }
+    #layout-menu td {
+        display: block;
+        width: 100%;
+    }
+}
