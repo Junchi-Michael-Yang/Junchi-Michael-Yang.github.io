@@ -374,7 +374,7 @@ table.imgtable, table.imgtable td {
 
 /* Add wider edge on both sides */
 body {
-    max-width: 930px;
+    max-width: 940px;
     margin: 0 auto;
 }
 
