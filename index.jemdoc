@@ -17,9 +17,11 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 == News\
 
-# - \[2023.03\] Our paper "Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods" is online. 
+- \[2023.06\] I am giving a talk at the 20th EUROpt Workshop in Budapest in August.
 
-- \[2023.03\] I am attending the SIAM Conference on Optimization (OP23) in Seattle in June.
+ - \[2023.05\] Our paper "Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods" is online. 
+
+- \[2023.03\] I am giving a talk at the SIAM Conference on Optimization (OP23) in Seattle in June.
 
 - \[2023.03\] I am attending ICLR 2023 in Kigali in May.
 
@@ -40,7 +42,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 - Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods\n
   *Junchi Yang*\*, Xiang Li\*, Ilyas Fatkhullin, and Niao He.\n
-  Manuscript in February 2023
+  Manuscript 2023. [https://arxiv.org/pdf/2305.12475.pdf \[arXiv\] ] 
 
 
 - TiAda: A Time-scale Adaptive Algorithm For Nonconvex Minimax Optimization\n
@@ -76,10 +78,15 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 == Talks\
 
+- 20th EUROpt Workshop 2023. Title: "From SGD to Adaptive Methods: Benefits of Adaptive Gradient Techniques.".
+
+- SIAM Conference on Optimization 2023 (OP23). Title: "Adaptive Algorithms for Nonconvex Minimax Optimization".
+
+- CSL Student Conference 2021. Title: "A Catalyst Framework for Minimax Optimization".
 
 - INFORMS 2020 Annual Meeting. Title: "Simple and Efficient Algorithms for Classes of Nonconvex Minimax Optimization".
 
-- CSL Student Conference 2021. Title: "A Catalyst Framework for Minimax Optimization".
+
 
 
 == Teaching
