@@ -6,7 +6,7 @@
 ~~~
 {}{img_left}{self.jpeg}{alt text}{130}{168}
 
-I am a final-year PhD student in Computer Science at ETH Zurich, advised by [https://odi.inf.ethz.ch/niaohe Niao He]. I also work closely with [https://people.epfl.ch/negar.kiyavash?lang=en Negar Kiyavash]. My research interest lies in optimization and its applications in machine learning. Prior to this, I received a master's degree in Industrial Engineering from the University of Illinois Urbana-Champaign. I received a bachelor's degree in Applied Mathematics and Economics from UCLA in 2017. 
+I am a postdoctoral researcher at Argonne National Laboratory. I completed my Ph.D. in Computer Science at ETH Zurich, under the supervision of [https://odi.inf.ethz.ch/niaohe Niao He]. My research interest lies in optimization and its applications in machine learning. Prior to this, I received a master's degree in Industrial Engineering from the University of Illinois Urbana-Champaign. I received a bachelor's degree in Applied Mathematics and Economics from UCLA. 
 
 Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
@@ -27,11 +27,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 - \[2023.03\] I am giving a talk at the SIAM Conference on Optimization (OP23) in Seattle in June.
 
-- \[2023.03\] I am attending ICLR 2023 in Kigali in May.
-
 - \[2023.01\] Our paper "TiAda: A Time-scale Adaptive Algorithm For Nonconvex Minimax Optimization" is accepted by ICLR 2023.
-
-- \[2022.10\] I am attending NeurIPS in New Orleans in November. Check out our posters. 
 
 - \[2022.09\] One paper is accepted by NeurIPS 2022 and one is accepted by NeurIPS OPT workshop.
  
@@ -44,6 +40,14 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 \n
 
+- Parameter-Agnostic Optimization under Relaxed Smoothness\n
+  Florian Hübler, *Junchi Yang*, Xiang Li, Niao He.\n
+  (preliminary version in NeurIPS OPT Workshop 2023) [https://arxiv.org/pdf/2311.03252.pdf \[arXiv\] ] 
+
+- Optimal Guarantees for Algorithmic Reproducibility and Gradient Complexity in Convex Optimization\n
+  Liang Zhang\*, *Junchi Yang*\*, Amin Karbasi, Niao He.\n
+  NeurIPS 2023 (*spotlight*). [https://arxiv.org/pdf/2310.17759.pdf \[arXiv\] ] 
+
 - Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods\n
   *Junchi Yang*\*, Xiang Li\*, Ilyas Fatkhullin, and Niao He.\n
   NeurIPS 2023. [https://arxiv.org/pdf/2305.12475.pdf \[arXiv\] ] 
@@ -51,7 +55,7 @@ Email: junchi.yang (at) inf (dot) ethz (dot) ch
 
 - TiAda: A Time-Scale Adaptive Algorithm For Nonconvex Minimax Optimization\n
   Xiang Li, *Junchi Yang*, and Niao He.\n
-  ICLR 2023 (preliminary version in NeurIPS OPT Workshop) [https://arxiv.org/pdf/2210.17478.pdf \[arXiv\] ] 
+  ICLR 2023 (preliminary version in NeurIPS OPT Workshop 2022) [https://arxiv.org/pdf/2210.17478.pdf \[arXiv\] ] 
 
 
 - Nest Your Adaptive Algorithm for Parameter-Agnostic Nonconvex Minimax Optimization\n
