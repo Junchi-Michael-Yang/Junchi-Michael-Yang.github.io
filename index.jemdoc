@@ -6,7 +6,7 @@
 ~~~
 {}{img_left}{self.jpeg}{alt text}{130}{168}
 
-I am a postdoctoral researcher at Argonne National Laboratory. I completed my Ph.D. in Computer Science at ETH Zurich, under the supervision of [https://odi.inf.ethz.ch/niaohe Niao He]. My research interest lies in optimization and its applications in machine learning. Prior to this, I received a master's degree in Industrial Engineering from the University of Illinois Urbana-Champaign. I received a bachelor's degree in Applied Mathematics and Economics from UCLA. 
+I am a postdoctoral researcher at Argonne National Laboratory, working with [https://www.anl.gov/profile/feng-qiu Feng Qiu]. I completed my Ph.D. in Computer Science at ETH Zurich, under the supervision of [https://odi.inf.ethz.ch/niaohe Niao He]. My research interests lie in optimization and its applications in machine learning and power systems. Prior to this, I received a master's degree in Industrial Engineering from the University of Illinois Urbana-Champaign. I received a bachelor's degree in Applied Mathematics and Economics from UCLA. 
 
 Email: junchi.yang (at) anl (dot) gov
 
@@ -16,6 +16,10 @@ Email: junchi.yang (at) anl (dot) gov
 	
 
 == News\
+
+- \[2024.2\] I am attending the 2024 Conference on Innovative Smart Grid Technologies (ISGT) in February and the INFORMS Optimization Society Conference in March.
+
+- \[2024.2\] My Ph.D. Thesis "[https://www.research-collection.ethz.ch/handle/20.500.11850/658589 Towards Near-Optimal and Adaptive Algorithms in Minimax Optimization]" is now available online. Check it out.
 
 - \[2024.1\] Our paper "Parameter-Agnostic Optimization under Relaxed Smoothness" is accepted to AISTATS 2024. 
 
@@ -33,7 +37,6 @@ Email: junchi.yang (at) anl (dot) gov
 
 - \[2023.01\] Our paper "TiAda: A Time-scale Adaptive Algorithm For Nonconvex Minimax Optimization" is accepted by ICLR 2023.
 
-- \[2022.09\] One paper is accepted by NeurIPS 2022 and one is accepted by NeurIPS OPT workshop.
  
 
 
