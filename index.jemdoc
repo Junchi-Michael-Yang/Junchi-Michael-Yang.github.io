@@ -8,7 +8,7 @@
 
 I am a postdoctoral researcher at Argonne National Laboratory, working with [https://www.anl.gov/profile/feng-qiu Feng Qiu]. I completed my Ph.D. in Computer Science at ETH Zurich, under the supervision of [https://odi.inf.ethz.ch/niaohe Niao He]. My research interests lie in optimization and its applications in machine learning and power systems. Prior to this, I received a master's degree in Industrial Engineering from the University of Illinois Urbana-Champaign. I received a bachelor's degree in Applied Mathematics and Economics from UCLA. 
 
-Email: junchi.yang (at) anl (dot) gov
+Email: junchi.yang@outlook.com
 
 [https://www.linkedin.com/in/junchi-yang-455206b0/ Linkedin]. [https://scholar.google.com/citations?user=Av7wBOQAAAAJ&hl=en/ Google Scholar].
 ~~~
@@ -16,6 +16,11 @@ Email: junchi.yang (at) anl (dot) gov
 	
 
 == News\
+
+- \[2024.6\] Our work on distributed optimization "[https://arxiv.org/pdf/2407.02689 Accelerating Distributed Optimization: A Primal-Dual
+Perspective on Local Steps]" is available online.
+
+- \[2024.6\] I am attending the 2024 IEEE Power & Energy Society General Meeting in July.
 
 - \[2024.2\] I am attending the 2024 Conference on Innovative Smart Grid Technologies (ISGT) in February and the INFORMS Optimization Society Conference in March.
 
@@ -27,15 +32,11 @@ Email: junchi.yang (at) anl (dot) gov
 
 - \[2023.09\] Two co-first-authored papers are accepted to NeurIPS 2023. One of them is selected to be a spotlight paper. 
 
-- \[2023.09\] I've successfully defended my PhD thesis. Grateful for this academic journey.
+- \[2023.09\] I've successfully defended my Ph.D. thesis. Grateful for this academic journey.
 
 - \[2023.06\] I am giving a talk at the 20th EUROpt Workshop in Budapest in August.
 
- - \[2023.05\] Our paper "[https://arxiv.org/pdf/2305.12475.pdf Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods ]" is online. 
-
 - \[2023.03\] I am giving a talk at the SIAM Conference on Optimization (OP23) in Seattle in June.
-
-- \[2023.01\] Our paper "TiAda: A Time-scale Adaptive Algorithm For Nonconvex Minimax Optimization" is accepted by ICLR 2023.
 
  
 
@@ -47,23 +48,25 @@ Email: junchi.yang (at) anl (dot) gov
 
 \n
 
+- Accelerating Distributed Optimization: A Primal-Dual Perspective on Local Steps\n
+  *Junchi Yang*, Murat Yildirim, Qiu Feng.\n
+  Manuscript 2024 [https://arxiv.org/pdf/2407.02689 \[arXiv\] ] 
+
 - Parameter-Agnostic Optimization under Relaxed Smoothness\n
   Florian Hübler, *Junchi Yang*, Xiang Li, Niao He.\n
   AISTATS 2024 (preliminary version in NeurIPS OPT Workshop 2023) [https://arxiv.org/pdf/2311.03252.pdf \[arXiv\] ] 
 
 - Optimal Guarantees for Algorithmic Reproducibility and Gradient Complexity in Convex Optimization\n
   Liang Zhang\*, *Junchi Yang*\*, Amin Karbasi, Niao He.\n
-  NeurIPS 2023 (*spotlight*). [https://arxiv.org/pdf/2310.17759.pdf \[arXiv\] ] 
+  NeurIPS 2023 (*spotlight*). [https://arxiv.org/pdf/2310.17759.pdf \[arXiv\] ]  [https://proceedings.neurips.cc/paper_files/paper/2023/hash/38c5feed4b72c96f6cf925ccc9832ecf-Abstract-Conference.html \[NeurIPS\] ]
 
 - Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods\n
   *Junchi Yang*\*, Xiang Li\*, Ilyas Fatkhullin, and Niao He.\n
-  NeurIPS 2023. [https://arxiv.org/pdf/2305.12475.pdf \[arXiv\] ] 
-
+  NeurIPS 2023. [https://arxiv.org/pdf/2305.12475.pdf \[arXiv\] ]  [https://proceedings.neurips.cc/paper_files/paper/2023/hash/eb1a323fa10d4102ff13422476a744ff-Abstract-Conference.html \[NeurIPS\] ]
 
 - TiAda: A Time-Scale Adaptive Algorithm For Nonconvex Minimax Optimization\n
   Xiang Li, *Junchi Yang*, and Niao He.\n
   ICLR 2023 (preliminary version in NeurIPS OPT Workshop 2022) [https://arxiv.org/pdf/2210.17478.pdf \[arXiv\] ]   [https://openreview.net/pdf?id=zClyiZ5V6sL \[ICLR\] ]
-
 
 - Nest Your Adaptive Algorithm for Parameter-Agnostic Nonconvex Minimax Optimization\n
   *Junchi Yang*\*, \ Xiang Li\*, and Niao He.\n
@@ -72,7 +75,6 @@ Email: junchi.yang (at) anl (dot) gov
 - Faster Single-Loop Algorithms for Minimax Optimization without Strong Concavity\n
   *Junchi Yang*, Antonio Orvieto, Aurelien Lucchi, and Niao He.\n
   AISTATS 2022 [https://arxiv.org/abs/2112.05604 \[arXiv\] ] [https://proceedings.mlr.press/v151/yang22b.html \[AISTATS\] ]
-
 
 - The Complexity of Nonconvex-Strongly-Concave Minimax Optimization\n
   Siqi Zhang\*, \ *Junchi Yang*\*, Cristobal Guzman, Negar Kiyavash and Niao He.\n
@@ -88,10 +90,17 @@ Email: junchi.yang (at) anl (dot) gov
 
 
 
+== Thesis\
+
+- Towards Near-Optimal and Adaptive Algorithms in Minimax Optimization\n
+  Doctoral Thesis. ETH Zurich. 2023 [https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/658589/PhD_Thesis_twosided.pdf?sequence=1 \[ETH Research Collection\] ]\n
+  (Chapter 2 of the thesis presents our complete Catalyst framework for unbalanced minimax problems. The full results were initially presented at the [https://publish.illinois.edu/csl-student-conference-2021/program/technical-sessions/control-systems-and-reinforcement-learning/ CSL Student Conference 2021 ], and portions appeared in our [https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html NeurIPS 2020 ] and [https://www.auai.org/uai2021/pdf/uai2021.205.pdf UAI 2021 ] papers.)
 
 
 
 == Talks\
+
+- 2024 INFORMS Optimization Society Conference (IOS). Title: "Optimal Guarantees for Algorithmic Reproducibility and Gradient Complexity in Convex Optimization".
 
 - 20th EUROpt Workshop 2023. Title: "From SGD to Adaptive Methods: Benefits of Adaptive Gradient Techniques".
 
